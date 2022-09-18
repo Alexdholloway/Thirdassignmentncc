@@ -1,0 +1,10 @@
+1001  Rose  3486  5000    28 Kalaw     
+1002  Dave  6574  2500    24 Yangon     
+1003  Filo  8875  3500    19 Mandalay     
+1004  Jack  1225  8500    26 Pyinoolwin     
+1005  John  6671  4900    23 Taunggyi     
+1006  Luci  7532  5500    27 Chaungthar     
+1007  Tope  1472  2000    25 Myitkyina     
+1008  Tris  4227  1500    29 Taunggu     
+1009  Dann  9638  7000    30 Naypyitaw     
+1010  Alex  6623  6500    22 Bagan     
